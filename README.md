@@ -1,1 +1,3 @@
-# colab_backup
+# 코드를 읽고 해석한 뒤 정리하는 repository다
+
+가끔 논문 리뷰를 할 수도 있다
